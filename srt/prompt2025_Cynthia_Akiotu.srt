@@ -9,7 +9,7 @@ Now it is written or spoken in prompts.
 
 3
 00:00:13,720 --> 00:00:15,640
-A sentence can now accelerate a threat.
+A sentence can now isolate a threat.
 
 4
 00:00:16,140 --> 00:00:22,530
@@ -23,16 +23,16 @@ Prompt Engineering 2025 conference.
 
 6
 00:00:30,409 --> 00:00:36,200
-My name is Cynthia Kyo to a cybersecurity
+My name is Cynthia Akiotu a cybersecurity
 architect with years of experience in
 
 7
 00:00:36,200 --> 00:00:39,030
-managing identity and assess management.
+managing identity and access management.
 
 8
 00:00:39,375 --> 00:00:40,875
-As data security.
+and data security.
 
 9
 00:00:41,375 --> 00:00:50,704
@@ -62,7 +62,7 @@ This is like having 7,000 doors open.
 
 15
 00:01:14,919 --> 00:01:18,969
-Ling, while you are still thinking
+rattling, while you are still thinking
 about how to close the last one.
 
 16
@@ -82,7 +82,7 @@ how often this breach is going to happen.
 19
 00:01:39,560 --> 00:01:46,749
 80% of executives are living in
-fair due to AI leaked risk Employees
+fear due to AI leaked risk Employees
 
 20
 00:01:47,289 --> 00:01:54,399
@@ -148,12 +148,12 @@ loopholes within the organization.
 
 33
 00:02:59,454 --> 00:03:05,094
-The issue or the challenge is in that
+The issue or the challenge isn't that
 security professionals are not skilled
 
 34
 00:03:05,594 --> 00:03:12,904
-or the threat landscape and attackers
+but the threat landscape and attackers
 are now moving at the speed of light.
 
 35
@@ -228,7 +228,7 @@ Security administrator, I make use
 50
 00:04:32,074 --> 00:04:37,444
 of Microsoft security copilot, and
-I taught it to share, use it as a
+I thought it to share, use it as a
 
 51
 00:04:37,444 --> 00:04:43,624
@@ -289,7 +289,7 @@ and leveraging prompts, a security analyst
 63
 00:05:38,259 --> 00:05:44,019
 can decide to type in natural language
-to assess the security posterior office
+to assess the security posture of
 
 64
 00:05:44,019 --> 00:05:50,179
@@ -310,7 +310,7 @@ This is not automation.
 
 68
 00:05:58,709 --> 00:06:00,599
-I call it argumentation.
+I call it augmentation.
 
 69
 00:06:01,099 --> 00:06:06,589
@@ -343,7 +343,7 @@ understand context, to be proactive
 
 75
 00:06:38,459 --> 00:06:41,864
-and to utilize intelligence market.
+and to utilize intelligence smartly.
 
 76
 00:06:42,364 --> 00:06:47,794
@@ -357,7 +357,7 @@ a lot more to assess your identity and
 
 78
 00:06:55,374 --> 00:07:01,434
-assess management, to assess your data
+access management, to assess your data
 posture, to assess weak points and
 
 79
@@ -376,7 +376,7 @@ silent and most dangerous drifts.
 82
 00:07:12,074 --> 00:07:18,424
 All loopholes that organizations
-have is conditional assets drifts.
+have is conditional access drifts.
 
 83
 00:07:18,924 --> 00:07:24,004
@@ -385,12 +385,12 @@ enterprise, users are onboarded.
 
 84
 00:07:24,504 --> 00:07:30,344
-They change rules and sometimes even
+They change roles and sometimes even
 exit the organizations users in the
 
 85
 00:07:30,344 --> 00:07:36,584
-course of changing rules are acquiring
+course of changing roles are acquiring
 different rights, admin rights.
 
 86
@@ -424,7 +424,7 @@ with proper policies like multi
 
 92
 00:08:08,524 --> 00:08:12,624
-default authentication, attackers
+factor authentication, attackers
 can easily compromise those.
 
 93
@@ -510,7 +510,7 @@ access optimization agent.
 
 110
 00:09:41,644 --> 00:09:48,574
-I'm in the Microsoft intra tenant, and
+I'm in the Microsoft Entra tenant, and
 here you can see users at high risk.
 
 111
@@ -544,7 +544,7 @@ applications deployed in the organization
 117
 00:10:17,099 --> 00:10:21,449
 that are not covered with this proper
-policies and even check for policy Mer.
+policies and even check for policy Merge.
 
 118
 00:10:21,949 --> 00:10:22,334
@@ -570,8 +570,8 @@ At work,
 
 123
 00:10:37,934 --> 00:10:42,584
-I can also see activities that have
-been carrying out by the agent.
+I can also see activities that are
+been carried out by the agent.
 
 124
 00:10:42,834 --> 00:10:48,714
@@ -601,7 +601,7 @@ the activity of the agents.
 129
 00:11:10,189 --> 00:11:14,599
 From seeing what it did from the
-conditional access optimization engine,
+conditional access optimization agent,
 
 130
 00:11:14,929 --> 00:11:23,869
@@ -611,7 +611,7 @@ it scanned users within the last 24 hours.
 131
 00:11:23,989 --> 00:11:29,649
 You can see these activities, so
-let's go straight into subjections.
+let's go straight into suggestions.
 
 132
 00:11:29,649 --> 00:11:32,139
@@ -634,17 +634,17 @@ can apply policies to cover these gaps.
 136
 00:11:48,864 --> 00:11:53,664
 So now I have here there's a
-recommendation or a subjection saying
+recommendation or a suggestion saying
 
 137
 00:11:54,444 --> 00:12:00,264
-how two users to existing policy
+add two users to existing policy
 require MFA for financial apps.
 
 138
 00:12:01,119 --> 00:12:05,019
 For high, medium, and
-low risk signing user.
+low risk sign in user.
 
 139
 00:12:05,739 --> 00:12:10,749
@@ -653,7 +653,7 @@ used in the organization and before
 
 140
 00:12:11,249 --> 00:12:14,149
-users should assess that application.
+users should access that application.
 
 141
 00:12:14,509 --> 00:12:20,779
@@ -671,7 +671,7 @@ So that is a gap.
 144
 00:12:26,419 --> 00:12:29,539
 So with this, I can now
-apply the subjection.
+apply the suggestion.
 
 145
 00:12:30,039 --> 00:12:34,599
@@ -680,7 +680,7 @@ explanation that the policy requires users
 
 146
 00:12:34,599 --> 00:12:36,819
-to complete multi-part authentication.
+to complete multi-factor authentication.
 
 147
 00:12:37,239 --> 00:12:43,809
@@ -719,11 +719,11 @@ going straight to our data.
 154
 00:13:24,329 --> 00:13:30,239
 Now that we've seen how to manage
-identity and assess management,
+identity and access management,
 
 155
 00:13:30,749 --> 00:13:36,839
-managing gaps within our loop
+managing gaps within our 
 organization, from application drift
 
 156
@@ -757,12 +757,12 @@ loss prevention to ensure that there
 
 162
 00:14:10,775 --> 00:14:17,035
-is no expiration or data oversharing
+is no exfiltriation or data oversharing
 of sensitive information so that
 
 163
 00:14:17,364 --> 00:14:24,449
-executive wound fear AI leakage risk,
+executive won't fear AI leakage risk,
 or managing insider risk across ano
 
 164
@@ -787,7 +787,7 @@ the sequence of activities that users have
 
 168
 00:14:51,829 --> 00:14:54,769
-carried out or a nice insider has done.
+carried out or a n insider has done.
 
 169
 00:14:55,459 --> 00:14:58,129
@@ -820,7 +820,7 @@ of how this is done.
 175
 00:15:21,899 --> 00:15:24,509
 Now I'm taking you to
-the Microsoft Power View.
+the Microsoft PurView.
 
 176
 00:15:25,009 --> 00:15:30,499
@@ -897,7 +897,7 @@ the classification of data.
 191
 00:16:34,389 --> 00:16:39,729
 So if I want to get insights
-on my location, lemme check by
+on my location, let me check by
 
 192
 00:16:39,849 --> 00:16:45,209
@@ -977,7 +977,7 @@ DSE policy.
 208
 00:17:48,434 --> 00:17:53,810
 DLP Policy match for a document,
-POS lever, I click this.
+POS leaver, I click this.
 
 209
 00:17:54,310 --> 00:17:56,169
@@ -995,7 +995,7 @@ download this document on a device.
 212
 00:18:05,805 --> 00:18:09,975
 And is a sensitive document,
-the POS lever document.
+the POS leaver document.
 
 213
 00:18:10,515 --> 00:18:14,465
@@ -1063,7 +1063,7 @@ this like a insider risk.
 227
 00:19:04,240 --> 00:19:09,480
 The user is found to be involved
-in inspiration activities on that.
+in exfiltriation activities on that.
 
 228
 00:19:09,540 --> 00:19:14,430
@@ -1169,7 +1169,7 @@ process and treating security copilot
 
 250
 00:20:49,350 --> 00:20:54,815
-as a privileged assess surface because
+as a privileged access surface because
 security copilot is now is our teammates.
 
 251
@@ -1187,7 +1187,7 @@ As well.
 
 254
 00:21:02,385 --> 00:21:04,870
-There should be need with critical pilots.
+There should be need with security copilots
 
 255
 00:21:05,710 --> 00:21:09,160
@@ -1195,7 +1195,7 @@ Visibility and speed must co exist.
 
 256
 00:21:09,190 --> 00:21:14,880
-There should not be in isolation so that
+They should not be in isolation so that
 while we are leveraging prompts to combat
 
 257
@@ -1232,8 +1232,8 @@ insight, from reaction to resilience.
 
 264
 00:21:55,100 --> 00:22:00,560
-If we can't out cold attackers,
-we should outthink them.
+If we can't out code attackers,
+we should out think them.
 
 265
 00:22:01,460 --> 00:22:04,700
@@ -1246,16 +1246,16 @@ security challenges to combat the
 
 267
 00:22:10,400 --> 00:22:13,250
-trade landscape, leveraging prompts.
+threat landscape, leveraging prompts
 
 268
 00:22:13,610 --> 00:22:18,205
-As our weapons defenders
+As our weapons. defenders
 don't fail from lack of skill.
 
 269
 00:22:18,705 --> 00:22:24,275
-They fail from lack of skill, lack
+They fail from lack of scale, lack
 of context, because they can't
 
 270
@@ -1265,8 +1265,8 @@ floods and alerts are coming in.
 
 271
 00:22:29,480 --> 00:22:36,940
-So encourage everyone to leverage the
-user's prompts in mitigating security.
+So I encourage everyone to leverage the
+use of prompts in mitigating security.
 
 272
 00:22:37,330 --> 00:22:44,130
